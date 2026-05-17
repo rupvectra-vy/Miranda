@@ -115,7 +115,7 @@
 
   /* ── HERO ── */
   .hero {
-    margin-top: 104px;
+    margin-top: 54px;
     min-height: calc(100vh - 104px);
     display: grid;
     grid-template-columns: 1fr 1fr;
